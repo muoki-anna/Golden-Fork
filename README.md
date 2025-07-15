@@ -1,4 +1,4 @@
-# Delicious Bites Restaurant Menu
+# Golden Fork Restaurant Menu
 
 A simple HTML webpage showcasing the menu for the fictional "Golden Fork" restaurant.
 
